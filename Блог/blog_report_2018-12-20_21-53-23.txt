@@ -1,0 +1,30 @@
+Author: Egor
+Title: Prog-5
+Data: Davaite pogovorim
+UUID: 94414f6e-c4fb-4a1b-9c43-97c8697251be
+Comments(1):
+
+	Parent: 94414f6e-c4fb-4a1b-9c43-97c8697251be
+	Author: Kunica
+	Title: Hello
+	Data: Ya tuta!
+	UUID: e4cb0746-ad66-4876-bf79-815a4ce92a6a
+	Comments(2):
+
+		Parent: e4cb0746-ad66-4876-bf79-815a4ce92a6a
+		Author: Egor
+		Title: Hacker
+		Data: Nu ya zhe hacker
+		UUID: c70e7f42-5969-428f-af8b-eab47e861999
+		Comments(0):
+
+
+		Parent: e4cb0746-ad66-4876-bf79-815a4ce92a6a
+		Author: Kunica
+		Title: Best
+		Data: U R T Best
+		UUID: deb44a7f-2834-4fc5-bc82-5358d20f9016
+		Comments(0):
+
+
+
